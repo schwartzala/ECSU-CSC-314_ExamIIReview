@@ -3,3 +3,5 @@ When using protein blast, when looking at the species, if it isn't something tha
 For instance, if a protein happens to relate to a human, it is likely not disease causing as humans don't infect one another. There is something else that is passed between them that infects them. The same could be said of mice and humans.
 
 We will not actually be BLASTing, but we will have a BLAST output and will need to be able to analyze it.
+
+We listened to "Sometimes it Snows in April" by Prince.
