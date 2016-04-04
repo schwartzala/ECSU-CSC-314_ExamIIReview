@@ -5,3 +5,5 @@ For instance, if a protein happens to relate to a human, it is likely not diseas
 We will not actually be BLASTing, but we will have a BLAST output and will need to be able to analyze it.
 
 We listened to "Sometimes it Snows in April" by Prince.
+
+Book is open note and open book (if you have it), but, of course, if it takes you too long to look up the answer, you aren't helping yourself.
